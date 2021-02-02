@@ -27,6 +27,6 @@ This is a company webpage built using HTML and CSS. The main purpose of this pro
 
 ## Website
 
-copy and paste webpage
+https://andybuzzi.github.io/horiseon-webpage/
 
 ## ©️ 2019 Horiseon Social Solution Services, Inc.
